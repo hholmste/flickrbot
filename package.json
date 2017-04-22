@@ -1,0 +1,11 @@
+{
+  "name": "flickrbot",
+  "version": "1.0.0",
+  "description": "thing",
+  "main": "flickrbot.js",
+  "dependencies": {
+    "slackbots": "",
+    "flickrapi": "",
+    "node-env-file":""
+  }
+}
